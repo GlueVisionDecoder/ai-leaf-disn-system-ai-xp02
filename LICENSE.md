@@ -1,4 +1,4 @@
-# 
+# Nuevo AI leaf disease detection system scripts. Con aprendizaje por refuerzo y procesamiento en tiempo real — optimizado para el máximo rendimiento.
 
 
 
